@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Generic_colection;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,12 @@ namespace _09_Generics_and_Collections
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+            Console.ReadLine();
         }
     }
 }

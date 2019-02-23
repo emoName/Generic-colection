@@ -8,5 +8,13 @@ namespace _09_Generics_and_Collections
 {
     class Class2
     {
+        public Class2(int a ,String s)
+        {
+            id = a;
+            dorinte = s;
+        }
+
+        public int id;
+        public string dorinte;
     }
 }

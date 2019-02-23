@@ -8,5 +8,13 @@ namespace _09_Generics_and_Collections
 {
     interface Interface1
     {
+
+       void ShowName();
+
     }
+
+
+
+
+
 }
