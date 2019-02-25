@@ -13,6 +13,18 @@ namespace _09_Generics_and_Collections
     {
 
 
+
+        public void GenericMethod()
+        {
+            void MethodGeneric<Z,K>(Z z , K k)
+            {
+            }
+            // el preia tipul de la parametri fara ca sa specifici 
+            MethodGeneric(5,"");
+
+
+        }
+
         public void NulableMethod()
         {
             // T where t : class must be not-Nullable
